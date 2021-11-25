@@ -1,4 +1,5 @@
-# Database File Path : DatabaseSQL/login_logout.sql
+# Please follow the steps
+Database File Path : DatabaseSQL/login_logout.sql
 Import the above File into phpmyadmin 
 It will create two tables Named as : 
 1) users 2) user_data
